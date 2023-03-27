@@ -4,6 +4,17 @@
 
 ![Email Marketing Analysis](https://user-images.githubusercontent.com/123024674/227967441-48e27f53-7501-42bc-8768-7735db83dfc7.png)
 
+## Research Questions
+
+1. How many people signed up by gender?
+2. How many subscribers are active versus non-active with the emails received?
+3. What are the top 5 states with the highest number of signups?
+4. What are the top 5 cities with the highest number of signups?
+5. How many people signed up by marital status?
+6. How many people signed up by living status?
+7. How has the number of signups changed over the years?
+8. At what times of day do signups peak?
+
 ## Findings
 
 -	Majority of signups are male (70%) compared to female (30%).
