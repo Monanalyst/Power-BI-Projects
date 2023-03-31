@@ -24,7 +24,7 @@
 -	Most of nearly all the signups are married individuals (97%) compared to single individuals (3%).
 -	When it comes to living status, majority of signups are from couples with children followed by the next largest group of couples without children. Significantly fewer signups are from individuals who are single or living alone.
 -	Signups have increased over the years with the highest number in 2018 and the lowest in 2020.
-- Signups spike at 9AM, peak between 11AM and 1PM, and then gradually decrease throughout the daySignups peak during the hours of 11AM and 1PM and gradually decrease throughout the day.
+- Signups spike at 9AM, peak between 11AM and 1PM, and then gradually decrease throughout the day.
 
 ## Recommendations
 
